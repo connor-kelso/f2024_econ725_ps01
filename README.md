@@ -4,7 +4,9 @@ NegotiatePro is a tool for unions and laborers that aims to analyze quaterly yei
 --------------
 
 Geoff's edits
-Making Push request for test
+Making Pull request for test
+Project Description
+Within NegotiatePro, we hope to take data from the US census and third party employer data sources. By weighing the needs of the employer and employee, NegotiatePro will be able to create the optimal outcome for both parties involved. 
 
 
 Tom's edits
