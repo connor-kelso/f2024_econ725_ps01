@@ -10,3 +10,8 @@ Geoff's edits
 Tom's edits
 
 --------------
+
+Should you wish to contact any of the collaborators on this project, yuo can reach us at
+Geoff Point-Du-Jour   --   geoff.point-du-jour@emory.edu
+Connor Kelso   --   connor.kelso@emory.edu
+Tom Zhang   --   haoxiang.zhang@emory.edu
