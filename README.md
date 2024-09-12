@@ -11,6 +11,9 @@ Within NegotiatePro, we hope to take data from the US census, financial reports,
 
 Tom's edits
 
+
+
+
 --------------
 
 Should you wish to contact any of the collaborators on this project, yuo can reach us at
